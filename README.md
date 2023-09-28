@@ -1,5 +1,5 @@
 # Damager SA-MP 0.3.7 R1/R3-1
-![](https://s5.gifyu.com/images/gif1a2ffdb241e17959.gif)\
+![](https://i.imgur.com/JGz0ryD.png)\
 блестхак: https://www.blast.hk/threads/60774/
 ### Commands:
 * /dmg - вкл/выкл
