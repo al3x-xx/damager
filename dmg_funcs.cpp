@@ -346,7 +346,7 @@ void dmgFuncs::processDMG(std::uint16_t id) const {
 }
 
 bool dmgFuncs::localPlayerInVehicle() const {
-	return sampFuncs::i().getLocalSampPed()->pGTA_Ped->vehicle != nullptr;
+	return *reinterpret_cast<void**>(0xBA18FC) != nullptr;
 }
 
 bool dmgFuncs::localPlayerIsPassenger() const {
